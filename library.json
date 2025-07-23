@@ -1,0 +1,17 @@
+{
+  "name": "Timezone",
+  "version": "1.2.5-fix",
+  "description": "Convert UTC to local time with DST support.",
+  "keywords": ["time", "timezone", "dst"],
+  "frameworks": "*",
+  "platforms": "*",
+  "authors": [
+    {
+      "name": "Jack Christensen",
+      "email": "jack.christensen@outlook.com"
+    }
+  ],
+  "dependencies": {
+    "paulstoffregen/Time": "^1.6.1"
+  }
+}
